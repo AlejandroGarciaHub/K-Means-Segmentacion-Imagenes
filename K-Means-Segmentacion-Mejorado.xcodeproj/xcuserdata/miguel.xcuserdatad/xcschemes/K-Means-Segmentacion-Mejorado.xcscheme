@@ -61,6 +61,12 @@
             ReferencedContainer = "container:K-Means-Segmentacion-Mejorado.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "$PROJECT_DIR/build/Debug/images/test/42049.jpg 10 $PROJECT_DIR/build/Debug/centroids/42049.xml $PROJECT_DIR/build/Debug/Out/42049.jpg $PROJECT_DIR/build/Debug/resultados.txt 0 100"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
