@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<centroids type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>"3u"</dt>
+  <data>
+    45 52 39 40 48 37 221 254 255 44 54 41 212 254 253 218 255 255</data></centroids>
+</opencv_storage>

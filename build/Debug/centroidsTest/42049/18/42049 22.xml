@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<centroids type_id="opencv-matrix">
+  <rows>18</rows>
+  <cols>1</cols>
+  <dt>"3u"</dt>
+  <data>
+    39 47 46 195 210 179 191 204 172 190 201 169 191 205 171 196 212 181
+    77 104 138 193 205 175 36 47 45 194 212 181 194 210 179 55 68 70 182
+    183 149 57 94 114 191 206 174 197 217 188 177 176 142 195 208 176</data></centroids>
+</opencv_storage>
